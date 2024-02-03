@@ -875,14 +875,14 @@ html,body{
         width: 100%;
     }
     .line h1{
-        font-size: 7.2vw;
+        font-size: 7vw;
     }
     .line #now{
-        font-size: 7.2vw;
+        font-size: 7vw;
     
     }
     .animate{
-        font-size: 7.2vw;
+        font-size: 7vw;
         left: 77%;
     }
     
